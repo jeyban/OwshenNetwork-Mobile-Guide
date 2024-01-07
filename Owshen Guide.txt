@@ -1,0 +1,31 @@
+
+You must have a wallet from Owshen Network that create on code workspace environments. In this case, users can use gitpod that connecting with writers github account. Create gitpod account with link below.
+https://gitpod.io/workspaces
+
+Before Start
+➖  Login your Github Account
+➖  Create new repository, make it Public.
+➖  Copy the github link provided after creating your repository.
+
+How to use GitPod
+https://gitpod.io/workspaces
+➖ Login with Github
+➖ Create New Workspace
+➖ Select repository: your link Github Repository
+➖ Terminal: Vs Code Browser
+➖ Spec: Standard
+
+Follow Command lines
+➖ sudo apt update && sudo apt upgrade -y
+➖ sudo apt-get install git-all -y
+➖ sudo apt-get install curl -y
+➖ sudo su
+➖ sudo apt update
+➖ sudo apt install libfuse2
+➖ sudo apt install fuse
+➖ wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
+➖ chmod +x Owshen_v0.1.0_x86_64.AppImage
+➖ ./Owshen_v0.1.0_x86_64.AppImage init
+➖ At this moment Save The mnemonic phrase !!!
+➖ ./Owshen_v0.1.0_x86_64.AppImage info
+➖ Save your Owshen address
